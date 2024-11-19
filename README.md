@@ -8,6 +8,3 @@ This project, developed as part of the AWS AI-ML Scholarship Program, focuses on
 - Utilizes transfer learning for improved accuracy.
 - Evaluates model performance with metrics like accuracy and loss.
 
-## Technologies Used
-- Python (TensorFlow/Keras, NumPy, Matplotlib)
-- Jupyter Notebook
